@@ -89,7 +89,7 @@ dataset_path = {
     'case10_2': '../datasets/case_dataset/12k_DriveEnd_Bearing_Fault_Data/',  # path of 12k Drive End Bearing Fault Data
     'xjtu15': '../datasets/XJTU_Bearing_Datasets',
     'mftp15': '../datasets/MFTP_dataset',
-    'pu10': '../datasets/pu_Bearing_dataset',
+    'pu13': '../datasets/pu_Bearing_dataset',
     'seu10': '../datasets/SEU_dataset/gearbox/bearingset'
 }
 # dataset_path[dataset_name]
